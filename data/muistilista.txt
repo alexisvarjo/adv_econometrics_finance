@@ -1,3 +1,0 @@
-puuttuu:
-
-- exchange rates / currency returns
